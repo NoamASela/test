@@ -10,7 +10,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //comment
             Console.Write("first line");
             Console.Write("second line");
         }
